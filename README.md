@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matrix12isreal
 - 👀 I’m interested in python,c,c++,c#,java,sql,javascript,
 - 🌱 I’m currently learning python and c
-- 💞️ I’m looking to collaborate on no one
+- 💻 I wanna be a game developer
 - 📫 How to reach me email at yashguptafoodie12@gmail.com
 
 <!---
